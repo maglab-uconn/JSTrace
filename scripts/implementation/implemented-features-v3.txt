@@ -1,0 +1,2200 @@
+    {
+label: 'p',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.7, /*BILABIAL*/
+   0.2, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'b',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.7, /*BILABIAL*/
+   0.2, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 't',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'd',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'k',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.05, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.7, /*VELAR*/
+   0.15, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'g',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.05, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.7, /*VELAR*/
+   0.15, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'H',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   1, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.2, /*VELAR*/
+   0.7, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'm',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   1, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.7, /*BILABIAL*/
+   0.2, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'n',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   1, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'G',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   1, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.05, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.7, /*PALATAL*/
+   0.1, /*VELAR*/
+   0.05, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'f',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.15, /*BILABIAL*/
+   0.7, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.05, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'v',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.15, /*BILABIAL*/
+   0.7, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.05, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'T',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.05, /*BILABIAL*/
+   0.1, /*LABIODENTAL*/
+   0.7, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.05, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'D',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.05, /*BILABIAL*/
+   0.1, /*LABIODENTAL*/
+   0.7, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.05, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 's',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'z',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'S',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.05, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.7, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.05, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'Z',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.05, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.7, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.05, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'h',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.8, /*FRICATIVE*/
+   0.2, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.2, /*VELAR*/
+   0.7, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'C',
+features: [
+   1, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.2, /*FRICATIVE*/
+   0.8, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.05, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.7, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.05, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'J',
+features: [
+   0, /*UNVOICE*/
+   1, /*VOICE*/
+   0, /*SONORANT*/
+   1, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.2, /*FRICATIVE*/
+   0.8, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.05, /*DENTAL*/
+   0.1, /*ALVEROLAR*/
+   0.7, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.05, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'r',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   1, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.9, /*APPROXIMANT*/
+   0.1, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'y',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   1, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   1.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.05, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.7, /*PALATAL*/
+   0.1, /*VELAR*/
+   0.05, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'w',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   1, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   1.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.05, /*POSTALVEOLAR*/
+   0.1, /*PALATAL*/
+   0.7, /*VELAR*/
+   0.15, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'l',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   1, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.2, /*APPROXIMANT*/
+   0.8, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.05, /*LABIODENTAL*/
+   0.1, /*DENTAL*/
+   0.7, /*ALVEROLAR*/
+   0.1, /*POSTALVEOLAR*/
+   0.05, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'i',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.4, /*FB1A*/
+   0.1, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.4, /*HL1A*/
+   0.1, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.4, /*HL1B*/
+   0.1, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'I',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.4, /*FB1A*/
+   0.1, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.05, /*HL1A*/
+   0.4, /*HL2A*/
+   0.05, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.05, /*HL1B*/
+   0.4, /*HL2B*/
+   0.05, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'e',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.4, /*FB1A*/
+   0.1, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.05, /*HL2A*/
+   0.4, /*HL3A*/
+   0.05, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.05, /*HL2B*/
+   0.4, /*HL3B*/
+   0.05, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'E',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.4, /*FB1A*/
+   0.1, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   nan, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.05, /*HL4B*/
+   0.4, /*HL5B*/
+   0.05, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'A',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.4, /*FB1A*/
+   0.1, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.1, /*HL5B*/
+   0.4, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'x',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.05, /*FB2A*/
+   0.4, /*FB3A*/
+   0.05, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.0, /*FB1B*/
+   0.05, /*FB2B*/
+   0.4, /*FB3B*/
+   0.05, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.05, /*HL4B*/
+   0.4, /*HL5B*/
+   0.05, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'u',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.1, /*FB4A*/
+   0.4, /*FB5A*/
+   0.4, /*HL1A*/
+   0.1, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.1, /*FB4B*/
+   0.4, /*FB5B*/
+   0.4, /*HL1B*/
+   0.1, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'U',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.05, /*FB3A*/
+   0.4, /*FB4A*/
+   0.05, /*FB5A*/
+   0.05, /*HL1A*/
+   0.4, /*HL2A*/
+   0.05, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.1, /*FB3B*/
+   0.4, /*FB4B*/
+   0.0, /*FB5B*/
+   0.05, /*HL1B*/
+   0.4, /*HL2B*/
+   0.05, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'o',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.1, /*FB4A*/
+   0.4, /*FB5A*/
+   0.0, /*HL1A*/
+   0.05, /*HL2A*/
+   0.4, /*HL3A*/
+   0.05, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.1, /*FB4B*/
+   0.4, /*FB5B*/
+   0.0, /*HL1B*/
+   0.05, /*HL2B*/
+   0.4, /*HL3B*/
+   0.05, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'c',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.1, /*FB4A*/
+   0.4, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.1, /*FB4B*/
+   0.4, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.05, /*HL4B*/
+   0.4, /*HL5B*/
+   0.05, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'a',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.1, /*FB4A*/
+   0.4, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.1, /*HL5A*/
+   0.4, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.1, /*FB4B*/
+   0.4, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.1, /*HL5B*/
+   0.4, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'Y',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.05, /*FB1A*/
+   0.4, /*FB2A*/
+   0.05, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.05, /*HL1B*/
+   0.4, /*HL2B*/
+   0.05, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'O',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.1, /*FB4A*/
+   0.4, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.4, /*FB1B*/
+   0.1, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.05, /*HL1B*/
+   0.4, /*HL2B*/
+   0.05, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: 'W',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   1, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   1, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.05, /*FB1A*/
+   0.4, /*FB2A*/
+   0.05, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.05, /*HL4A*/
+   0.4, /*HL5A*/
+   0.05, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.05, /*FB3B*/
+   0.4, /*FB4B*/
+   0.05, /*FB5B*/
+   0.05, /*HL1B*/
+   0.4, /*HL2B*/
+   0.05, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   0, /*SIL1*/
+   0, /*SIL2*/
+   0, /*SIL3*/
+   0, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
+    {
+label: '-',
+features: [
+   0, /*UNVOICE*/
+   0, /*VOICE*/
+   0, /*SONORANT*/
+   0, /*NONSONORANT*/
+   0, /*LIQUID*/
+   0, /*SEMI-GLIDE*/
+   0, /*VOCALIC*/
+   0, /*STOP*/
+   0, /*NASAL*/
+   0.0, /*FRICATIVE*/
+   0.0, /*AFFRICATE*/
+   0.0, /*APPROXIMANT*/
+   0.0, /*LATERAL*/
+   0.0, /*BILABIAL*/
+   0.0, /*LABIODENTAL*/
+   0.0, /*DENTAL*/
+   0.0, /*ALVEROLAR*/
+   0.0, /*POSTALVEOLAR*/
+   0.0, /*PALATAL*/
+   0.0, /*VELAR*/
+   0.0, /*GLOTTAL*/
+   0.0, /*FB1A*/
+   0.0, /*FB2A*/
+   0.0, /*FB3A*/
+   0.0, /*FB4A*/
+   0.0, /*FB5A*/
+   0.0, /*HL1A*/
+   0.0, /*HL2A*/
+   0.0, /*HL3A*/
+   0.0, /*HL4A*/
+   0.0, /*HL5A*/
+   0.0, /*HL6A*/
+   0.0, /*FB1B*/
+   0.0, /*FB2B*/
+   0.0, /*FB3B*/
+   0.0, /*FB4B*/
+   0.0, /*FB5B*/
+   0.0, /*HL1B*/
+   0.0, /*HL2B*/
+   0.0, /*HL3B*/
+   0.0, /*HL4B*/
+   0.0, /*HL5B*/
+   0.0, /*HL6B*/
+   1, /*SIL1*/
+   1, /*SIL2*/
+   1, /*SIL3*/
+   1, /*SIL4*/
+],
+durationScalar: [1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+phonologicalRole: TracePhoneRole.NORMAL,
+    },
+
